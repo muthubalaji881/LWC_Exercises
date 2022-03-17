@@ -29,6 +29,10 @@
         <type>CustomTab</type>
     </appMenuItems>
     <appMenuItems>
+        <name>Deliveries_Map</name>
+        <type>CustomTab</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>People</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
