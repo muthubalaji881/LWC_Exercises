@@ -34,7 +34,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>Certification__c.Number_of_Certified_Professionals__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -245,6 +245,10 @@
     </recordTypeVisibilities>
     <tabSettings>
         <tab>AwInstructors</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
+        <tab>AwInstructors_Cmp_Tab</tab>
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>
