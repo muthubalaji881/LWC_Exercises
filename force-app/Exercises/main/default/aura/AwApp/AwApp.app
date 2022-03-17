@@ -1,5 +1,5 @@
-<aura:application extends="force:slds">
-    <aura:attribute name="listView" type="String"
+<aura:application extends="force:slds"
+template="c:AwAppTemplate" >    <aura:attribute name="listView" type="String"
 default="visible"/>
 <aura:attribute name="markersTitle" type="String"
 default="All Worldwide Deliveries" />
